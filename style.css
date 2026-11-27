@@ -1,0 +1,628 @@
+body {
+    background-image: url("newbackground.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.about-container {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 35px;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+    border-radius: 15px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about-container h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.about-container p {
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+
+/* Main text colour */
+body {
+    color: white;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+    color: #FFD700;
+    text-shadow: 2px 2px 5px black;
+}
+
+/* Paragraphs */
+p {
+    color: white;
+    text-shadow: 1px 1px 4px black;
+}
+
+/* Navigation links */
+a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 8px;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* About section */
+.about-container {
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+/* Increase general text size */
+body {
+    font-size: 20px;
+}
+
+/* Main headings */
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 21px;
+    line-height: 1.8;
+}
+
+/* Navigation links */
+a {
+    font-size: 22px;
+}
+
+/* About Me section */
+.about-container {
+    max-width: 1000px;
+    padding: 40px;
+}
+
+.contact-container {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.contact-container h1 {
+    color: #FFD700;
+    font-size: 48px;
+}
+
+.contact-container h2 {
+    color: #FFD700;
+    margin-top: 30px;
+}
+
+.contact-container p {
+    font-size: 21px;
+    line-height: 1.8;
+}
+
+.contact-details {
+    margin: 25px 0;
+}
+
+.contact-message {
+    font-style: italic;
+}
+
+.hero {
+    min-height: 450px;
+    padding: 60px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.65);
+    color: white;
+    margin: 30px 20px;
+    border-radius: 15px;
+}
+
+.hero h1 {
+    font-size: 42px;
+    color: #FFD700;
+}
+
+.hero h2 {
+    font-size: 55px;
+    color: white;
+}
+
+.hero p {
+    max-width: 850px;
+    font-size: 21px;
+    line-height: 1.8;
+}
+
+.hero-button {
+    display: inline-block;
+    background: #FFD700;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hero-button:hover {
+    background: white;
+    color: black;
+}
+
+/* Page background */
+body {
+    background-image: url("newbackground.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+/* About Me outline and container */
+.about-container {
+    max-width: 950px;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.85);
+    border: 3px solid #FFD700;
+    border-radius: 20px;
+    outline: 2px solid white;
+    outline-offset: 6px;
+    color: white;
+    text-align: center;
+    line-height: 1.8;
+}
+
+/* Main heading */
+.about-container h1 {
+    color: #FFD700;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 30px;
+}
+
+/* Paragraphs */
+.about-container p {
+    color: white;
+    font-size: 20px;
+    line-height: 1.9;
+    text-align: justify;
+    margin-bottom: 22px;
+}
+
+/* Back to Home button */
+.hero-button {
+    display: inline-block;
+    background: #FFD700;
+    color: black;
+    padding: 14px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* ABOUT ME PAGE BACKGROUND */
+.about-page {
+    background-image: url("kalibackground.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+/* ABOUT ME CONTAINER */
+.about-container {
+    max-width: 1000px;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.82);
+    border: 3px solid #FFD700;
+    border-radius: 20px;
+    outline: 2px solid white;
+    outline-offset: 5px;
+}
+
+/* MAIN HEADING */
+.about-container h1 {
+    text-align: center;
+    color: #FFD700;
+    font-size: 48px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 35px;
+}
+
+/* OTHER HEADINGS */
+.about-container h2,
+.about-container h3 {
+    text-align: center;
+    color: #FFD700;
+    font-size: 30px;
+}
+
+/* PARAGRAPHS */
+.about-container p {
+    color: white;
+    font-size: 21px;
+    line-height: 1.9;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+/* BACK HOME BUTTON */
+.about-container .hero-button {
+    display: block;
+    width: fit-content;
+    margin: 30px auto 0;
+    padding: 15px 30px;
+    background: #FFD700;
+    color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* PORTFOLIO PAGE */
+
+.portfolio-page {
+    background-image: url("about-background.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+}
+
+/* HEADER */
+
+.portfolio-header {
+    text-align: center;
+    padding: 40px 20px;
+    background: rgba(0, 0, 0, 0.9);
+    border-bottom: 3px solid #FFD700;
+}
+
+.portfolio-header h1 {
+    color: #FFD700;
+    font-size: 45px;
+}
+
+.portfolio-header p {
+    font-size: 21px;
+}
+
+.portfolio-header nav a {
+    display: inline-block;
+    color: #FFD700;
+    text-decoration: none;
+    font-size: 19px;
+    margin: 15px;
+}
+
+.portfolio-header nav a:hover {
+    color: white;
+}
+
+/* MAIN CONTAINER */
+
+.portfolio-container {
+    max-width: 1150px;
+    margin: 50px auto;
+    padding: 35px;
+    background: rgba(0, 0, 0, 0.88);
+    border: 2px solid #FFD700;
+    border-radius: 18px;
+}
+
+.portfolio-intro {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.portfolio-intro h2,
+.collaboration-section h2 {
+    color: #FFD700;
+    font-size: 35px;
+    text-align: center;
+}
+
+.portfolio-intro p {
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* PORTFOLIO CARDS */
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.portfolio-card {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid #FFD700;
+    border-radius: 12px;
+    padding: 25px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.portfolio-card:hover {
+    transform: translateY(-8px);
+    background: rgba(255, 215, 0, 0.15);
+}
+
+.portfolio-card h3 {
+    color: #FFD700;
+    font-size: 24px;
+}
+
+.portfolio-card p {
+    color: white;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.portfolio-card span {
+    display: inline-block;
+    color: #FFD700;
+    font-size: 14px;
+    margin-top: 12px;
+    font-weight: bold;
+}
+
+/* COLLABORATION */
+
+.collaboration-section {
+    margin-top: 60px;
+    padding: 30px;
+    border-top: 2px solid #FFD700;
+    text-align: center;
+}
+
+.collaboration-section p,
+.collaboration-section li {
+    font-size: 19px;
+    line-height: 1.9;
+}
+
+.collaboration-section ul {
+    display: inline-block;
+    text-align: left;
+    margin: 20px auto;
+}
+
+/* FOOTER */
+
+.portfolio-footer {
+    text-align: center;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.95);
+}
+
+/* MOBILE RESPONSIVENESS */
+
+@media (max-width: 768px) {
+
+    .portfolio-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .portfolio-header h1 {
+        font-size: 30px;
+    }
+
+    .portfolio-container {
+        margin: 20px;
+        padding: 20px;
+    }
+
+}
+
+/* CONTACT PAGE */
+
+.contact-page {
+    background-image: url("aboutmebackground.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+}
+
+/* HEADER */
+
+.contact-header {
+    text-align: center;
+    padding: 40px 20px;
+    background: rgba(0, 0, 0, 0.9);
+    border-bottom: 3px solid #FFD700;
+}
+
+.contact-header h1 {
+    color: #FFD700;
+    font-size: 45px;
+}
+
+.contact-header p {
+    font-size: 21px;
+}
+
+.contact-header nav a {
+    display: inline-block;
+    color: #FFD700;
+    text-decoration: none;
+    font-size: 19px;
+    margin: 12px;
+}
+
+/* MAIN CONTENT */
+
+.contact-main {
+    max-width: 1100px;
+    margin: 50px auto;
+    padding: 35px;
+    background: rgba(0, 0, 0, 0.88);
+    border: 2px solid #FFD700;
+    border-radius: 18px;
+}
+
+.contact-intro {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.contact-intro h2,
+.contact-details h2,
+.collaboration-section h2,
+.contact-ending h2 {
+    color: #FFD700;
+    font-size: 32px;
+    text-align: center;
+}
+
+.contact-intro p {
+    font-size: 20px;
+    line-height: 1.9;
+}
+
+/* CONTACT CARDS */
+
+.contact-details {
+    text-align: center;
+}
+
+.contact-card {
+    display: inline-block;
+    vertical-align: top;
+    width: 38%;
+    min-height: 160px;
+    padding: 20px;
+    margin: 15px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid #FFD700;
+    border-radius: 12px;
+}
+
+.contact-card h3 {
+    color: #FFD700;
+    font-size: 22px;
+}
+
+.contact-card p {
+    font-size: 18px;
+}
+
+.contact-card a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* COLLABORATION */
+
+.collaboration-section {
+    border-top: 2px solid #FFD700;
+    margin-top: 45px;
+    padding-top: 30px;
+}
+
+.collaboration-section p,
+.collaboration-section li {
+    font-size: 19px;
+    line-height: 1.9;
+}
+
+.collaboration-section ul {
+    display: table;
+    margin: 20px auto;
+}
+
+/* ENDING */
+
+.contact-ending {
+    text-align: center;
+    border-top: 2px solid #FFD700;
+    margin-top: 40px;
+    padding-top: 30px;
+}
+
+.contact-ending p {
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* FOOTER */
+
+.contact-footer {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.95);
+    padding: 25px;
+}
+
+/* MOBILE RESPONSIVENESS */
+
+@media (max-width: 768px) {
+
+    .contact-card {
+        width: 80%;
+    }
+
+    .contact-header h1 {
+        font-size: 32px;
+    }
+
+    .contact-main {
+        margin: 20px;
+        padding: 20px;
+    }
+
+}
